@@ -3,6 +3,20 @@
   <channel>
     <title>Netwright Studio</title>
     <item>
+      <title>Version 0.9.6</title>
+      <pubDate>Mon, 16 Nov 2026 01:56:40 +0000</pubDate>
+      <sparkle:version>0.9.6</sparkle:version>
+      <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Netwright Studio 0.9.6 for Windows</p>
+<ul>
+<li>New: Help › Check for Updates… checks right away and offers to download and install a new version.</li>
+</ul>
+<p>Your projects and settings are kept.</p>
+]]></description>
+      <enclosure url="https://ahmedalbazzaz1987.github.io/netwright-updates/windows/Netwright-Studio-0.9.6-Windows-Setup.exe" length="77635265" type="application/vnd.microsoft.portable-executable" sparkle:edSignature="pCCF7sbmMp4cBd2mtiAro2dlh5QaBlLmOU5YK32BYANdGfscWH5ivK0Pyz8YAf6z42FLCdmMjdmJGMZYt9tuDg=="/>
+    </item>
+    <item>
       <title>Version 0.9.5</title>
       <pubDate>Mon, 16 Nov 2026 01:34:06 +0000</pubDate>
       <sparkle:version>0.9.5</sparkle:version>
