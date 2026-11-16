@@ -3,6 +3,21 @@
   <channel>
     <title>Netwright Studio</title>
     <item>
+      <title>Version 0.9.5</title>
+      <pubDate>Mon, 16 Nov 2026 01:34:06 +0000</pubDate>
+      <sparkle:version>0.9.5</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Netwright Studio 0.9.5 for Windows</p>
+<ul>
+<li>Settings no longer jumps to the top after Check for Updates, so the result stays in view.</li>
+<li>Arabic and other non-Latin text (for example an Arabic Documents folder name) now displays correctly instead of as boxes.</li>
+</ul>
+<p>Your projects and settings are kept.</p>
+]]></description>
+      <enclosure url="https://ahmedalbazzaz1987.github.io/netwright-updates/windows/Netwright-Studio-0.9.5-Windows-Setup.exe" length="77626077" type="application/vnd.microsoft.portable-executable" sparkle:edSignature="64XGbWirkkEPrmSS0jurFVK+6UnaYGXqhCB+QfDJhhqsQjaVKR0lJETrD6Kqq6f5q3iTe7Xrm2oHygBvbZkzBg=="/>
+    </item>
+    <item>
       <title>Version 0.9.4</title>
       <pubDate>Mon, 16 Nov 2026 00:47:54 +0000</pubDate>
       <sparkle:version>0.9.4</sparkle:version>
